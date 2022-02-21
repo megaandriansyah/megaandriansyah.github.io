@@ -1,0 +1,34 @@
+:root {
+  --mainColor: #0d75fd;
+  --secondarryColor: #9abcf3;
+}
+section {
+  padding-top: 6rem;
+}
+/* body */
+#body {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+/* akhir body */
+.jumbotron {
+  padding: 6rem 1rem;
+  background-color: var(--mainColor) !important ;
+}
+
+#projects {
+  background-color: var(--mainColor);
+}
+#about {
+  background-color: var(--secondarryColor);
+}
+section {
+  padding-top: 5rem;
+  display: block;
+  width: auto;
+  height: auto;
+}
+#contact {
+  background-color: #9abcf3;
+}
